@@ -1,1 +1,1 @@
-0x03-git project on ALX school.
+0x03-git project on ALX school
